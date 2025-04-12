@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpAsserts", "CSharpAsserts.csproj", "{77656A77-C684-4B36-AA92-2243EE7F163A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpNUnitAsserts", "CSharpNUnitAsserts.csproj", "{77656A77-C684-4B36-AA92-2243EE7F163A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpMSTTestAsserts", "..\CSharpMSTTestAsserts\CSharpMSTTestAsserts.csproj", "{5CB1DAC6-C683-4C2D-9646-4B851CE95524}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{77656A77-C684-4B36-AA92-2243EE7F163A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77656A77-C684-4B36-AA92-2243EE7F163A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77656A77-C684-4B36-AA92-2243EE7F163A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CB1DAC6-C683-4C2D-9646-4B851CE95524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CB1DAC6-C683-4C2D-9646-4B851CE95524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CB1DAC6-C683-4C2D-9646-4B851CE95524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CB1DAC6-C683-4C2D-9646-4B851CE95524}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
